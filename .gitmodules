@@ -1,0 +1,9 @@
+[submodule "icons"]
+	path = icons
+	url = https://github.com/danisztls/minimal-icons
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/danisztls/minimal-hugo
+[submodule "library"]
+	path = library
+	url = https://github.com/danisztls/minimal-library
